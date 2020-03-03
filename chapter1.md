@@ -1,7 +1,7 @@
 # Chapter 1: Introduction
 
 - New services must be at least 6 months old to make it into the exam
-- Gap from Associate to Professional is really large
+- **Gap from Associate to Professional is really large
 - Quickly Move from understand and remember to evaulate and apply
 - Study to become and expert not just to pass the exam
 
