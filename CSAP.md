@@ -3,20 +3,13 @@
 <h3>Exam Overview</h3>
 
 1. Multiple choice and multiple answer questions
-2. 170 minutes to complete the exam. It's all multiple choice on a PC
-3. Exam available in English and Japanese
-4. Practice Exam Registration fee is USD 40
-5. The Exam blueprint specified that there would be 100+ questions given in a 180 minute period and did not specify a pass grade. 
-6. The exam will test your knowledge with 80 questions
-7. In terms of question complexity, it requires a good understanding of all available AWS services
-8. AWS Certification passing scores are set by using statistical analysis and are subject to change. AWS does not publish exam passing scores because exam questions and passing scores are subject to change without notice
-9. Exam Registration fee is USD 300
-10. Recommend taking Advanced Architecting on AWS
-11. Sample questions for the exam are <a href="https://d0.awsstatic.com/Train%20%26%20Cert/docs/AWS_certified_solutions_architect_professional_examsample.pdf">available here</a>.
-<br><br>
+2. 170 minutes and 75 Questions to complete the exam
+7. Exam requires a good understanding of all available AWS services
+8. Passing score is 80% i.e. need t ohave atleast 60 Questions correct
+9. Exam fee is USD 300
 
+<br><br>
 <h3>What should I bring to an AWS Certification exam?</h3>
--
 
 Candidates must show two forms of personal identification (ID). Primary form must be a valid, government-issued ID containing both a photo and signature. The secondary form of ID needs to be valid and contain a signature.
 <br>
