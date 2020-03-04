@@ -8,49 +8,10 @@
 8. Passing score is 80% i.e. need t ohave atleast 60 Questions correct
 9. Exam fee is USD 300
 
-<br><br>
 <h3>What should I bring to an AWS Certification exam?</h3>
-
-Candidates must show two forms of personal identification (ID). Primary form must be a valid, government-issued ID containing both a photo and signature. The secondary form of ID needs to be valid and contain a signature.
-<br>
-Acceptable Forms of Primary ID (name, photograph, signature, valid/current):
-<ul>
-    <li>Government-issued Driver’s license</li>
-    <li>U.S. Department of State Driver’s License</li>
-    <li>National/State/Country Identification Card</li>
-    <li>Passport</li>
-    <li>Passport cards</li>
-    <li>Military ID</li>
-    <li>Alien Registration Card (Green Card, Permanent Resident Visa)</li>
-</ul>
-Note: Irish natives may use a Public Services Card as a primary form of identification, in Ireland only.
-<ul>
-    <li>Acceptable forms of Secondary ID (name, signature, valid/current):</li>
-    <li>U.S. Social Security Card</li>
-    <li>Debit/(ATM) Card</li>
-    <li>Credit Card</li>
-    <li>School ID (without a signature for minors is acceptable) any form of ID on the primary list</li>
-</ul>
-<br>
-Note: In Japan, the blue colored (not pink) Health Insurance Card is an acceptable form of secondary identification. <br>
-However, the paper form of the Health Insurance is not acceptable.
-<br>
+Govt ID
+Water Bottle
 You can NOT bring food, laptops, backpacks, notepads, or other personal equipment to the test area. For all exams, you can request a whiteboard and marker (some centers may hand out paper and pencil), which must be returned before you leave. During check in you’ll be asked to turn out your pockets (on jackets, pants, etc.) to verify they’re empty and free of prohibited items. Eyewear will also be inspected to ensure that it’s not technology-enabled.
-<br><br>
-
-<h2>Prerequisites & Requirements</h2>
-<br>
-
-To be eligible for this exam, you must already be certified at the <b>AWS Certified Solutions Architect – Associate Level</b>. You should have multiple years of hands-on experience designing and deploying cloud architecture on AWS, along with the ability to evaluate cloud application requirements and make architectural recommendations for implementation, deployment, and provisioning applications on AWS. Additionally, you should have the experience and the capability to provide best practices guidance on the architectural design across multiple applications, projects, or the enterprise.
-
-Note that in the event that you fail to pass an <b>AWS certification exam</b>, you may retake the exam subject to the following conditions:
-
-a. You must wait 14 days from the day you fail to take the exam again<br>
-b. You can take an exam up to three times in one year from the date of your first attempt
-
-This is valid for any AWS Certifiation Exam.
-
-To pass the <b>AWS Certified Solutions Architect - Professional exam</b>, you have to master advanced and technical skills, not to mention the experience in designing distributed applications and systems using AWS. Check the short list below to understand you need to master in order to pass the exam.
 
 <h3>Exam concepts you should understand for this exam include:</h3>
 
