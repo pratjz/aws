@@ -1,40 +1,30 @@
-<h2>AWS solutions architect - Professional Exam</h2>
+## AWS solutions architect - Professional Exam
 
-<h3>Exam Overview</h3>
+### Exam Overview
 
-1. Multiple choice and multiple answer questions
-2. 170 minutes and 75 Questions to complete the exam
-7. Exam requires a good understanding of all available AWS services
-8. Passing score is 750 out of 1000 i.e. need to have atleast 60 Questions correct
-9. Exam fee is USD 300
-10. You won't pass the exam if you don't know about AWS Organizations, Difference between SCP vs IAM Policy, Cross-Region Disaster Recovery, AWS Serverless Application Model (AWS SAM), AWS Server Migration Service (SMS), AWS Systems Manager, AWS CI/CD Tools (CodeCommit, CodeBuild, CodeDeploy, CodePipeline) and many more
+- Multiple choice and multiple answer questions
+- 170 minutes and 75 Questions to complete the exam
+- Exam requires a good understanding of all available AWS services
+- Passing score is 750 out of 1000 i.e. need to have atleast 60 Questions correct
+- Exam fee is USD 300
 
-11. Get the AWS SA Professional practice tests in Udemy, which the TutorialsDojo team patterned the exam scenario, with up to 85% OFF by using the coupon code: TUTORIALSDOJO_G1 or by visting this link: https://www.udemy.com/aws-solutions-architect-professional-practice-exams-2018/?couponCode=TUTORIALSDOJO_G1
-
-12. Helpful AWS Cheat sheets: * https://tutorialsdojo.com/aws-cheat-sheets/
-
-<h3>What should I bring to an AWS Certification exam?</h3>
+### What should I bring to an AWS Certification exam?
 - Govt ID
 - Water Bottle
 - You can NOT bring food, laptops, backpacks, notepads, or other personal equipment to the test area. For all exams, you can request a whiteboard and marker (some centers may hand out paper and pencil), which must be returned before you leave. During check in you’ll be asked to turn out your pockets (on jackets, pants, etc.) to verify they’re empty and free of prohibited items. Eyewear will also be inspected to ensure that it’s not technology-enabled.
 
-<h2>The Exam Day</h2>
-
-<b>Just a couple of suggestions to pass the AWS Solutions Architect Professional level certification:</b>
+## On the Exam Day
 
 1. Wake up early every day and have a nice breakfast in the morning
 2. No coffee, try to eat a banana and a cup of orange juice every morning 
-3. Practice with [our specific resources for the AWS Certifications](https://cloudacademy.com/aws-certifications-training/)
-4. Drink water every day
-5. Get the most out of [this GitHub repository](https://gist.github.com/leonardofed/bbf6459ad154ad5215d354f3825435dc)
+3. Practice with (https://cloudacademy.com/aws-certifications-training/)
+4. Drink 5 ltr water every day
 6. Rewatch the [AWS Solution Architect Professional level certification detailed study-guide with tips and tricks on how to pass the certification](https://cloudacademy.com/webinars/how-study-aws-solutions-architect-professional-certification-24/)
 8. AWS Youtube channel: watch as many of the technical seminars and re:Invent presentations as you can. Then re-watch. Make notes.
 9. I would say that your chance of passing the course if you have not have had any practical experience to be seriously compromised. You have no excuse, get an account, login and play.
-10. Do some sport every day to reset your mind out of work and try to sleep 7h every night 
-11. Repeat
+10. Do some sport every day to reset your mind out of work and try to sleep 7h every night
 12. Once you are feeling confident enough you are ready to take a practice exam [here](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
-13. Smile at least once every day 
-14. Have fun
+13. Smile at least once every day
 
 ## New Services/concepts that were introduced in the exam: 
 
@@ -53,15 +43,15 @@
  - AWS CI/CD Services (CodeCommit, CodeBuild, CodeDeploy, CodePipeline) 
 
 
-<h2>Key Points to pass the Exam:</h2>
-<h3>Demonstrate ability to architect the appropriate level of availability based on stakeholder requirements</h3>
+## Key Points to pass the Exam:
+### Demonstrate ability to architect the appropriate level of availability based on stakeholder requirements
 
 1. Stakeholder requirements is key phrase here – look at what the requirements are first before deciding the best way to architect the solution
 2. What is availability? Basically up time. Does the customer need 99.99% up time or less? Which products may need to be used to meet this requirement?
 3. Look at products which are single AZ, multi AZ and multi region. It may be the case that a couple of instances in a single AZ will suffice if cost is a factor
 4. CloudWatch can be used to perform EC2 or auto scaling actions when status checks fail or metrics are exceeded (alarms, etc)
 
-<h3>Demonstrate ability to implement DR for systems based on RPO and RTO</h3>
+### Demonstrate ability to implement DR for systems based on RPO and RTO
 
 1. What is DR? It is the recovery of systems, services and applications after an unplanned period of downtime.
 2. What is RPO? Recovery Point Objective. At which point in time do we need to get back to when DR processes are invoked? 3. 3. This would come from a customer requirement – when systems are recovered, data is consistent from 30 minutes prior to the outage, or 1 hour, or 4 hours etc. What is acceptable to the stakeholder?
@@ -122,14 +112,14 @@ When you do an RDS restore, you can change the engine type (SQL Standard to Ente
 46. Redshift backups are stored on S3 and have a 1 day retention period by default and only backs up delta changes to keep storage consumption to a minimum
 47. EC2 snapshots are stored in S3 and are incremental and each snapshot still contains the base snapshot data. You are only charged for the incremental snapshot storage
 
-<h3>Determine appropriate use of multi-Availability Zones vs. multi-Region architectures</h3>
+### Determine appropriate use of multi-Availability Zones vs. multi-Region architectures
 
 1. Multi-AZ services examples are S3, RDS, DynamoDB. Using multi-AZ can mitigate against the loss of up to two AZs (data centres, assuming there are three. Some regions only have two). This can provide a good balance between cost, complexity and reliability
 2. Multi-region services can mitigate failures in AZs or individual regions, but may cost more and introduce more infrastructure and complexity. Use ELB for multi-region failover and resilience, CloudFront
 3. DynamoDB offers cross region replication, RDS offers the ability to snapshot from one region to another to have read only replicas. Code Pipeline has a built in template for replicating DynamoDB elsewhere for DR
 4. Redshift can snapshot within the same region and also replicate to another region
 
-<h3>Demonstrate ability to implement self-healing capabilities</h3>
+### Demonstrate ability to implement self-healing capabilities
 
 1. HA available already for most popular databases:-
 2. SQL Server Availability Groups, SQL Mirroring, log shipping. Read replicas in other AZs not supported
@@ -174,7 +164,7 @@ When you do an RDS restore, you can change the engine type (SQL Standard to Ente
 
 <i><a href="https://blue-clouds.com/2016/06/21/21-06-16/">Credits to Chris Beckett @ BlueClouds</a>
 
-<h2>General Learning Material</h2>
+## General Learning Material
 To prepare at best for the exam you should start with an overview of the concepts and knowledge areas covered on the exam and walks you through the exam structure and question formats. Get an hands-on practice with advanced use cases, while practice exam questions test your understanding of key architectural concepts. 
 
 1. <a href="https://cloudacademy.com/learning-paths/solutions-architect-professional-aws-17/">Solutions Architect—  Professional Certification for AWS (2016)</a>
