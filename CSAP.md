@@ -1,8 +1,4 @@
-<h2>Passing the AWS solutions architect - Professional Exam > Exam Overview</h2>
-
-This is a curated list of hands-on material to help you passing this AWS Certification! This advanced list of selected points are especially for students who already have a working knowledge of AWS and who have passed the Solutions Architect - Associate Certification for AWS exam (prerequisite for sitting the Solutions Architect - Professional Certification for AWS exam). This should be helpful to build and develop your skills as an AWS professional.
-
-<br>
+<h2>Passing the AWS solutions architect - Professional Exam</h2>
 
 <h3>Exam Overview</h3>
 
@@ -49,7 +45,7 @@ However, the paper form of the Health Insurance is not acceptable.
 You can NOT bring food, laptops, backpacks, notepads, or other personal equipment to the test area. For all exams, you can request a whiteboard and marker (some centers may hand out paper and pencil), which must be returned before you leave. During check in you’ll be asked to turn out your pockets (on jackets, pants, etc.) to verify they’re empty and free of prohibited items. Eyewear will also be inspected to ensure that it’s not technology-enabled.
 <br><br>
 
-<h2>Passing the AWS solutions architect - Professional exam > Prerequisites & Requirements</h2>
+<h2>Prerequisites & Requirements</h2>
 <br>
 
 To be eligible for this exam, you must already be certified at the <b>AWS Certified Solutions Architect – Associate Level</b>. You should have multiple years of hands-on experience designing and deploying cloud architecture on AWS, along with the ability to evaluate cloud application requirements and make architectural recommendations for implementation, deployment, and provisioning applications on AWS. Additionally, you should have the experience and the capability to provide best practices guidance on the architectural design across multiple applications, projects, or the enterprise.
@@ -203,7 +199,7 @@ When you do an RDS restore, you can change the engine type (SQL Standard to Ente
 
 <i><a href="https://blue-clouds.com/2016/06/21/21-06-16/">Credits to Chris Beckett @ BlueClouds</a>
 
-<h2>Passing the AWS solutions architect - Professional exam > General Learning Material</h2>
+<h2>General Learning Material</h2>
 To prepare at best for the exam you should start with an overview of the concepts and knowledge areas covered on the exam and walks you through the exam structure and question formats. Get an hands-on practice with advanced use cases, while practice exam questions test your understanding of key architectural concepts. 
 
 1. <a href="https://cloudacademy.com/learning-paths/solutions-architect-professional-aws-17/">Solutions Architect—  Professional Certification for AWS (2016)</a>
@@ -239,7 +235,7 @@ To prepare at best for the exam you should start with an overview of the concept
 27. <a href="https://soundcloud.com/cloudacademyinc/cloud-academy-office-hours-aws-certifications-special-guest">Interview with 5 AWS Certified Greg Cockburn (Podcast)</a>
 28. <a href="https://soundcloud.com/cloudacademyinc/cloud-academy-office-hours-special-guest">Interview with 5 AWS Certified Stephen Wilding (Podcast)</a>
 <br>
-<h2>Passing the AWS solutions architect - Professional Exam > Blueprints Exam</h2>
+<h2>Blueprints Exam</h2>
 
 <p>In <a href="https://d0.awsstatic.com/Train%20&%20Cert/docs/AWS_certified_solutions_architect_professional_examsample.pdf">this PDF</a> you can download the Sample Question provided by AWS We reviewed all the questions provided by AWS and you can find the correct answers marked in bold.</p>
 
