@@ -5,8 +5,13 @@
 1. Multiple choice and multiple answer questions
 2. 170 minutes and 75 Questions to complete the exam
 7. Exam requires a good understanding of all available AWS services
-8. Passing score is 80% i.e. need t ohave atleast 60 Questions correct
+8. Passing score is 750 out of 1000 i.e. need to have atleast 60 Questions correct
 9. Exam fee is USD 300
+10. You won't pass the exam if you don't know about AWS Organizations, Difference between SCP vs IAM Policy, Cross-Region Disaster Recovery, AWS Serverless Application Model (AWS SAM), AWS Server Migration Service (SMS), AWS Systems Manager, AWS CI/CD Tools (CodeCommit, CodeBuild, CodeDeploy, CodePipeline) and many more
+
+11. Get the AWS SA Professional practice tests in Udemy, which the TutorialsDojo team patterned the exam scenario, with up to 85% OFF by using the coupon code: TUTORIALSDOJO_G1 or by visting this link: https://www.udemy.com/aws-solutions-architect-professional-practice-exams-2018/?couponCode=TUTORIALSDOJO_G1
+
+12. Helpful AWS Cheat sheets: * https://tutorialsdojo.com/aws-cheat-sheets/
 
 <h3>What should I bring to an AWS Certification exam?</h3>
 - Govt ID
@@ -30,6 +35,23 @@
 12. Once you are feeling confident enough you are ready to take a practice exam [here](https://www.webassessor.com/wa.do?page=publicHome&branding=AMAZON)
 13. Smile at least once every day 
 14. Have fun
+
+## New Services/concepts that were introduced in the exam: 
+
+ - AWS Organizations 
+ - Managing Organizational Units (OU) 
+ - Service Control Policies (SCP)
+ - Difference between SCP and IAM Policy
+ - AWS Serverless Application Model (AWS SAM) 
+ - AWS Systems Manager ( and all its sub-services: State Manager, Session Manager, Patch Manager, Automation)
+ - Cloud Migration
+ - AWS Config
+ - AWS Service Catalog
+ - AWS Application Discovery Service
+ - AWS Server Migration Service (SMS)
+ - AWS Rekognition 
+ - AWS CI/CD Services (CodeCommit, CodeBuild, CodeDeploy, CodePipeline) 
+
 
 <h2>Key Points to pass the Exam:</h2>
 <h3>Demonstrate ability to architect the appropriate level of availability based on stakeholder requirements</h3>
@@ -187,5 +209,14 @@ To prepare at best for the exam you should start with an overview of the concept
 26. <a href="https://cloudacademy.com/webinars/how-study-aws-solutions-architect-professional-certification-24/">How to study for the AWS Solutions Architect Professional Certification (Webinar)</a>
 27. <a href="https://soundcloud.com/cloudacademyinc/cloud-academy-office-hours-aws-certifications-special-guest">Interview with 5 AWS Certified Greg Cockburn (Podcast)</a>
 28. <a href="https://soundcloud.com/cloudacademyinc/cloud-academy-office-hours-special-guest">Interview with 5 AWS Certified Stephen Wilding (Podcast)</a>
+
+ - Cloud Migration: https://aws.amazon.com/cloud-migration/
+ - AWS Organizations & SCP: https://aws.amazon.com/organizations/getting-started/
+ - SCP vs IAM Policy: https://aws.amazon.com/premiumsupport/knowledge-center/iam-policy-service-control-policy/
+ - AWS Systems Manager: https://docs.aws.amazon.com/systems-manager/latest/userguide/what-is-systems-manager.html
+ - Serverless: https://aws.amazon.com/serverless/
+ - Access Management: https://docs.amazonaws.cn/en_us/IAM/latest/UserGuide/access.html
+ - Web application hosting in AWS: https://d0.awsstatic.com/whitepapers/aws-web-hosting-best-practices.pdf
+ - AWS Disaster Recovery: http://d36cz9buwru1tt.cloudfront.net/AWS_Disaster_Recovery.pdf
 <br>
 
